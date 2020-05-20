@@ -1,6 +1,0 @@
-{
-    "azureFunctions.deploySubpath": ".",
-    "azureFunctions.projectLanguage": "TypeScript",
-    "azureFunctions.projectRuntime": "~3",
-    "azureFunctions.preDeployTask": "npm prune"
-}
